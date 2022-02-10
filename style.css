@@ -48,3 +48,28 @@ ul li {
   margin-left: 50px;
   margin-top: 20px;
 }
+
+.info {
+  display: flex;
+  margin-top: 50px;
+  margin-left: auto;
+  justify-content: center;
+}
+
+/* .item {
+  justify-content: center;
+  display: inline-block;
+  flex-wrap: wrap;
+  align-items: center;
+  vertical-align: top;
+} */
+
+.item {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  vertical-align: top;
+  text-align: center;
+  width: 250px;
+  margin-right: 10px;
+}
